@@ -24,6 +24,7 @@ Welcome to my personal portfolio website repository. This website showcases my f
 - HTML5
 - CSS3
 - Responsive Web Design
+- JavaScript
 
 ---
 
@@ -33,6 +34,7 @@ Welcome to my personal portfolio website repository. This website showcases my f
 - Other HTML files for sections like About, Skills, Projects, Certifications, Contact
 - `css/` — Stylesheets
 - `assets/` — Images and icons
+- `script.js/` - JavaScript
 
 ---
 
@@ -51,4 +53,4 @@ Open `index.html` in any modern browser to explore the website. It is fully resp
 ---
 
 © 2025 Arshad Ahamad  
-Front-End Developer | HTML & CSS  
+Front-End Developer
