@@ -37,5 +37,5 @@ Welcome to my personal portfolio website repository. This website showcases my f
 
 ---
 
-© 2025 Arshad Ahamad  
+© 2025 Arashad Ahamad  
 Front-End Developer
